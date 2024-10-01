@@ -2,30 +2,30 @@ import { FaGithub, FaDiscord, FaInstagram, FaYoutube } from 'react-icons/fa';
 import { SiJavascript, SiReact, SiNodedotjs, SiCsharp, SiFramer, SiTailwindcss, SiMongodb, SiNextdotjs, SiGit, SiHeadlessui, SiHtml5, SiCss3 } from 'react-icons/si';
 
 const config = {
-    name: "Fr3zy",
-    description: "A talented and ambitious self-taught web developer with expertise in JavaScript. I have a strong passion for building dynamic and engaging web applications that deliver exceptional user experiences.",
+    name: "WraithsDev",
+    description: "I have been learning software myself for 4 years and I have been sharing the software I have made on YouTube for 1 year. I have been writing and developing Discord bots for a long time. and I enjoy doing it",
     discord: {
-        userId: "1155137511954337887"
+        userId: "843136836947410945"
     },
     github: {
-        username: "fr3zyy"
+        username: "WraithsDev"
     },
     links: [
         {
             name: 'GitHub',
-            url: 'https://github.com/fr3zyy',
+            url: 'https://github.com/WraithsDev',
             icon: FaGithub,
             description: 'You can follow me on Github.'
         },
         {
             name: 'Discord',
-            url: 'https://discord.com/users/1155137511954337887',
+            url: 'https://discord.com/users/843136836947410945',
             icon: FaDiscord,
             description: 'You can contact me on Discord.'
         },
         {
             name: 'Youtube',
-            url: 'https://youtube.com/@Fr3zy',
+            url: 'https://youtube.com/@WraithsDev',
             icon: FaYoutube,
             description: 'You can follow me on Youtube.'
         },
@@ -36,36 +36,16 @@ const config = {
             icon: SiJavascript,
         },
         {
-            name: 'React',
-            icon: SiReact,
-        },
-        {
             name: 'Node.js',
             icon: SiNodedotjs,
-        },
-        {
-            name: 'Next',
-            icon: SiNextdotjs,
         },
         {
             name: 'C#',
             icon: SiCsharp,
         },
         {
-            name: 'Framer Motion',
-            icon: SiFramer,
-        },
-        {
-            name: 'TailwindCSS',
-            icon: SiTailwindcss,
-        },
-        {
             name: 'MongoDB',
             icon: SiMongodb,
-        },
-        {
-            name: 'Headless UI',
-            icon: SiHeadlessui,
         },
         {
             name: 'HTML',
