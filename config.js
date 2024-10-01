@@ -3,7 +3,7 @@ import { SiJavascript, SiReact, SiNodedotjs, SiCsharp, SiFramer, SiTailwindcss, 
 
 const config = {
     name: "WraithsDev",
-    description: "I have been learning software myself for 4 years and I have been sharing the software I have made on YouTube for 1 year. I have been writing and developing Discord bots for a long time. and I enjoy doing it",
+    description: "I havee been learning software myself for 4 years and I have been sharing the software I have made on YouTube for 1 year. I have been writing and developing Discord bots for a long time. and I enjoy doing it",
     discord: {
         userId: "843136836947410945"
     },
