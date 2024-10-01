@@ -44,7 +44,7 @@ const SocialLinks = () => {
             </div>
             <div className="mt-8 pt-6 border-t border-white/10 text-center">
                 <p className="text-gray-400 text-sm">
-                    Prefer email? Reach out to me at <a href={`mailto:${config.email}`} className="text-sky-400 hover:underline">{config.email || "contact@example.com"}</a>
+                    Prefer email? Reach out to me at <a href={`mailto:${config.email}`} className="text-sky-400 hover:underline">{config.email || "contact@wraiths.dev"}</a>
                 </p>
             </div>
         </div>
