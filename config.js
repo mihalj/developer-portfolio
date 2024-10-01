@@ -1,4 +1,4 @@
-import { FaGithub, FaDiscord, FaInstagram, FaYoutube } from 'react-icons/fa';
+import { FaGithub, FaDiscord, FaInstagram, FaYoutube, FaInstagram } from 'react-icons/fa';
 import { SiJavascript, SiReact, SiNodedotjs, SiCsharp, SiFramer, SiTailwindcss, SiMongodb, SiNextdotjs, SiGit, SiHeadlessui, SiHtml5, SiCss3 } from 'react-icons/si';
 
 const config = {
@@ -28,6 +28,12 @@ const config = {
             url: 'https://youtube.com/@WraithsDev',
             icon: FaYoutube,
             description: 'You can follow me on Youtube.'
+        },
+        {
+            name: 'İnstagram',
+            url: 'https://www.instagram.com/wraithsdev/',
+            icon: FaInstagram,
+            description: 'You can follow me on İnstagram.'
         },
     ],
     skills: [
