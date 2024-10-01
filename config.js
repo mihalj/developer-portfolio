@@ -1,4 +1,4 @@
-import { FaGithub, FaDiscord, FaInstagram, FaYoutube, } from 'react-icons/fa';
+import { FaGithub, FaDiscord, FaInstagram, FaYoutube } from 'react-icons/fa';
 import { SiJavascript, SiReact, SiNodedotjs, SiCsharp, SiFramer, SiTailwindcss, SiMongodb, SiNextdotjs, SiGit, SiHeadlessui, SiHtml5, SiCss3 } from 'react-icons/si';
 
 const config = {
