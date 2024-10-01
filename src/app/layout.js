@@ -7,7 +7,7 @@ import config from "../../config";
 const montserrat = Montserrat({ subsets: ["latin"] });
 
 export const metadata = {
-  title: `${config.name} | Developer`,
+  title: `${config.name}`,
   description: "A talented and ambitious self-taught web developer with expertise in JavaScript and C#.",
 };
 
