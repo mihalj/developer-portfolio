@@ -5,29 +5,35 @@ const config = {
     name: "WraithsDev",
     description: "I havee been learning software myself for 4 years and I have been sharing the software I have made on YouTube for 1 year. I have been writing and developing Discord bots for a long time. and I enjoy doing it",
     discord: {
-        userId: "843136836947410945"
+        userId: "696471986137858069"
     },
     github: {
-        username: "WraithsDev"
+        username: "mihalj"
     },
     links: [
         {
             name: 'GitHub',
-            url: 'https://github.com/WraithsDev',
+            url: 'https://github.com/mihalj',
             icon: FaGithub,
             description: 'You can follow me on Github.'
         },
         {
             name: 'Discord',
-            url: 'https://discord.com/users/843136836947410945',
+            url: 'https://discord.com/users/696471986137858069',
             icon: FaDiscord,
             description: 'You can contact me on Discord.'
         },
         {
-            name: 'Youtube',
-            url: 'https://youtube.com/@WraithsDev',
-            icon: FaYoutube,
-            description: 'You can follow me on Youtube.'
+            name: 'Twitter',
+            url: 'https://x.com/mihalj',
+            icon: FaTwitter,
+            description: 'You can follow me on Twitter.'
+        },
+        {
+            name: 'Instagram',
+            url: 'https://instagr.am/mihalj',
+            icon: FaInstagram,
+            description: 'You can follow me on Instagram.'
         },
     ],
     skills: [
