@@ -2,7 +2,7 @@ import { FaGithub, FaDiscord, FaYoutube } from 'react-icons/fa';
 import { SiJavascript, SiReact, SiNodedotjs, SiCsharp, SiFramer, SiTailwindcss, SiMongodb, SiNextdotjs, SiGit, SiHeadlessui, SiHtml5, SiCss3 } from 'react-icons/si';
 
 const config = {
-    name: "WraithsDev",
+    name: "mihalj",
     description: "I havee been learning software myself for 4 years and I have been sharing the software I have made on YouTube for 1 year. I have been writing and developing Discord bots for a long time. and I enjoy doing it",
     discord: {
         userId: "696471986137858069"
